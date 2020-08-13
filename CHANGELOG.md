@@ -4,7 +4,7 @@ All notable changes to the "vscode-didact" extension will be documented in this 
 
 ## 0.1.17
 
- - TBD
+ - Adding extension setting to enable opening the default Didact file at startup. [#144](https://github.com/redhat-developer/vscode-didact/issues/144)
 
 ## 0.1.16
 
